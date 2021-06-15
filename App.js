@@ -19,7 +19,13 @@ function App(){
           <h1 className={classes.ProductTitle}>{ProductData.title}</h1>
           <p className={classes.ProductDescription}>{ProductData.description}</p>
 
-          <h3 className={classes.ProductImage} src=""></h3>
+          <h3 className={classes.SectionHeading}> Select Color</h3>
+          <div>
+            <img className={classes.ProductImage} src="https://imgur.com/iOeUBV7.png" alt="Black Colored Watch" />
+            <img className={classes.ProductImage} src="https://imgur.com/PTgQlim.png" alt="Red Colored Watch" />
+            <img className={classes.ProductImage} src="https://imgur.com/Mplj1YR.png" alt="Blue Colored Watch" />
+            <img className={classes.ProductImage} src="https://imgur.com/xSIK4M8.png" alt="Purple Colored Watch" />
+          </div>
         </div>
       </div>
     </div>

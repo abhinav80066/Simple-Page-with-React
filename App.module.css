@@ -50,3 +50,15 @@
     margin-top: 0;
     margin-bottom: 16px;
 }
+
+.ProductImage{
+    width:100%;
+    max-width: 80px;
+
+    border: 2px solid transparent;
+    border-radius: 8px;
+}
+
+.SelectProductImage {
+    border: 2px solid teal
+}

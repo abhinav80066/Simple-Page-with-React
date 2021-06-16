@@ -1,0 +1,1 @@
+This is a simple replica Page of a Online shopping site contains a watch using only React.
